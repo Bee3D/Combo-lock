@@ -1,4 +1,4 @@
-p="1234"
+p="1234" --This is the password
 x=0
 a=0
 print ("Enter the code. Times failed", x, "/ 10")
