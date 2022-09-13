@@ -1,6 +1,6 @@
 p="1234" --This is the password
-x=0
-a=0
+x=0 --Made by Bee3D
+a=0 --Can be found at https://github.com/Bee3D/Combo-lock
 print ("Enter the code. Times failed", x, "/ 10")
 repeat
   c=io.read()
