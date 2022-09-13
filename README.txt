@@ -1,2 +1,2 @@
-This is not going to be usable normally. You must install and inidivdual lock, not the entire file.
-You also have to set it up by yourself. It's copy and pastablable code so once lua is setup it  should be easy.
+Change the value of p to whatever you want the code to be.
+Feel free to copy and paste this, just leave the in-code credits
